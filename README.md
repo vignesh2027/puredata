@@ -117,4 +117,3 @@ No manual steps. No build tools. No secrets needed.
 
 **Vignesh** — sole author and maintainer of puredata and this site.
 
-MIT License
